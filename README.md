@@ -26,8 +26,9 @@
 <h2>I'm Currently working on...</h2>
 
 <h3>COMPTIA Security +</h3>
+<!--
 <a href=https://colab.research.google.com/drive/1wvR-YjOJWJixE_jvZ4YZaLpxLvVBsMsi?usp=sharing>Personal Comptia Security + Study Guide (Ongoing)</a>
-
+<!--
 <a href=https://www.coursera.org/professional-certificates/google-it-automation/>Google IT Automation with Python Professional Certificate</a>
 
 
