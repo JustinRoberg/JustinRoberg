@@ -1,11 +1,13 @@
 # Hi there 👋 I'm Justin
 
+## Certifications
+
 # Cybersecurity Projects
 
 - **Python**
   - [Automate Cybersecurity Tasks with Python](https://github.com/JustinRoberg/Update-a-file-through-a-Python-algorithm)
 
-## SIEM
+<!-- ## SIEM
 
 ### Splunk
 
