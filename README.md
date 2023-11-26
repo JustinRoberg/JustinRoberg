@@ -1,56 +1,47 @@
-# Hi there 👋 I'm [Justin](https://www.linkedin.com/in/justinroberg)
+# Hello there! 👋 I'm [Justin](https://www.linkedin.com/in/justinroberg)
 
-## Cybersecurity Projects
+<h4 class="mt-n3" align=center>I have a background as a former retail manager and am currently engaged in options trading, concurrently pursuing a Bachelor of Science degree in Cybersecurity. I have created this portfolio not only to document my experience, and showcase projects, but to serve as a reference for myself to review. 
 
+</h4>
+
+## **Projects and Labs**
+
+### 🔒 Cybersecurity
+
+- **SIEM/IDS**
+  - Splunk
+  - Chronicle
+  - Suricata
 
 - **Python**
   - [Automate Cybersecurity Tasks with Python](https://github.com/JustinRoberg/Update-a-file-through-a-Python-algorithm)
 
-## 📜 [Certifications](https://www.credly.com/users/justin-rosenberg)
+- **SQL**
+  - Apply Filters to Queries
 
-<br align="left">
-  <a href="https://www.credly.com/badges/15717b07-b0f4-4f47-af1f-78500e1db6f9/public_url">
-    <img src="https://github.com/JustinRoberg/JustinRoberg/assets/133618188/02d721a2-4b25-444f-935a-85a5fba8802d" alt="Google Cybersecurity Certification" width="210px">
-  </a> 
-  <a href="https://www.credly.com/badges/4af08a97-9223-4411-9090-a2d67cb203c7/public_url">
-    <img src="https://github.com/JustinRoberg/JustinRoberg/assets/133618188/96accec6-5114-414b-9824-d6f57e580c2c" alt="Google IT support Certification" width="202px">
-  </a> 
-  <a href="https://www.credly.com/badges/c2336a33-3146-4b3b-a8eb-3d002eff612a/public_url">
-    <img src="https://github.com/JustinRoberg/JustinRoberg/assets/133618188/a1072da7-80d6-444e-a1ea-710c60256748" alt="CompTIA A+ Certification" width="198px">
-  </a> 
-  <a href="https://www.credly.com/badges/5e593bcc-66d8-41b3-b8fd-d2b7eaa1d907/public_url">
-    <img src="https://github.com/JustinRoberg/JustinRoberg/assets/133618188/cc7663eb-a852-499e-829c-05210c6c9f23" alt="Amazon Cloud Practioner Certification" width="202px">
-  </a> 
-</br>
+### 🔜 Coming Soon (Completed labs/projects to be uploaded)
+  - Wireshark
+    - Analyze Packet
+  - TCMPDUMP
+    - Packet Capture
+  -Python
+    - Course lab and notes
+  
+## 🔨 Currently Working on:
+  - CompTIA Security + (Expected 12/23)
+  - Google IT Automation with Python Professional Certificate
+  - B.S. Cybersecurity and Information Assurance
 
-## SIEM/IDS/IPS/
 
-**Splunk**
+## 🏅[Certifications](https://www.credly.com/users/justin-rosenberg):
 
-**Chronicle**
-
-**Suricata**
-
+![](https://images.credly.com/size/130x130/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
+![](https://images.credly.com/size/130x130/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)
+![](https://images.credly.com/size/130x130/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)
+![](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
 
 
 
-## SQL
-
-
-
-## Bash and Powershell
-
-
-
-<h2>IT Support Projects</h2>
-
-<h2>I'm Currently working on...</h2>
-
-<h3>COMPTIA Security +</h3>
-<!--
-<a href=https://colab.research.google.com/drive/1wvR-YjOJWJixE_jvZ4YZaLpxLvVBsMsi?usp=sharing>Personal Comptia Security + Study Guide (Ongoing)</a>
-<!--
-<a href=https://www.coursera.org/professional-certificates/google-it-automation/>Google IT Automation with Python Professional Certificate</a>
 
 
 <!--
