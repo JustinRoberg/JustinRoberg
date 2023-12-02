@@ -10,14 +10,17 @@
 
 - **SIEM/IDS**
   - Splunk
+    - [Perform a Query]() 
   - Chronicle
+    - [Perform Basic Search]()
   - Suricata
+     - [Search IDS]()  
 
 - **Python**
   - [Automate Cybersecurity Tasks with Python](https://github.com/JustinRoberg/Update-a-file-through-a-Python-algorithm)
 
 - **SQL**
-  - Apply Filters to Queries
+  - [Apply Filters to Queries]()
 
 ### 🔜 Coming Soon (Completed labs/projects to be uploaded)
   - Wireshark
