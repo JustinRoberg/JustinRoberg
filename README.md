@@ -10,17 +10,17 @@
 
 - **SIEM/IDS**
   - Splunk
-    - [Perform a Query]() 
+    - [Perform a Query](https://github.com/JustinRoberg/SIEMPractice/blob/Portfolio/Splunk.md) 
   - Chronicle
-    - [Perform Basic Search]()
+    - [Perform Basic Search](https://github.com/JustinRoberg/SIEMPractice/blob/Portfolio/ChronicleSearchProject.md)
   - Suricata
-     - [Search IDS]()  
+     - [Search IDS](https://github.com/JustinRoberg/SIEMPractice/blob/Portfolio/SuricataPractice.md)  
 
 - **Python**
   - [Automate Cybersecurity Tasks with Python](https://github.com/JustinRoberg/Update-a-file-through-a-Python-algorithm)
 
 - **SQL**
-  - [Apply Filters to Queries]()
+  - [Apply Filters to Queries](https://github.com/JustinRoberg/FilterSQLQueries)
 
 ### 🔜 Coming Soon (Completed labs/projects to be uploaded)
   - Wireshark
