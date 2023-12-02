@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm [Justin](https://www.linkedin.com/in/justinroberg)
 
-<h4 class="mt-n3" align=center>I have a background as a former retail manager and am currently engaged in options trading, concurrently pursuing a Bachelor of Science degree in Cybersecurity. I have created this portfolio not only to document my experience, and showcase projects, but to serve as a reference for myself to review. 
+<h4 class="mt-n3" align=center>I have a background as a former retail manager and am currently engaged in options trading, concurrently pursuing a Bachelor of Science degree in Cybersecurity. I have created this portfolio not only to document my experience, and showcase projects, but to serve as a reference that I can return to.
 
 </h4>
 
